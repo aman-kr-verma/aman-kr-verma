@@ -1,9 +1,9 @@
 ### Hi there I am [Aman] 👋
 
 
--Designing and developing back-end services of a web application using Spring Boot
--Aspiring Full Stack Developer
--Ask/reach me out [connect](http://linkedin.com/in/aman-kumar-verma-2144581b7)
+Designing and developing back-end services of a web application using Spring Boot
+Aspiring Full Stack Developer
+Ask/reach me out [connect](http://linkedin.com/in/aman-kumar-verma-2144581b7)
 
 
 
