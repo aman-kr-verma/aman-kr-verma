@@ -1,4 +1,4 @@
-### Hi there I am [Aman] 👋
+### Hi there I am Aman 👋
 
 
 <!-- Designing and developing back-end services of a web application using Spring Boot
