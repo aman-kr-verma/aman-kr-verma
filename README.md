@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💼 Designing and developing back-end services of a web application using Spring Boot
 - 🤞 Aspiring Full Stack Developer
 - 💬 Ask/reach me out [connect](http://linkedin.com/in/aman-kumar-verma-2144581b7)
-- 
+
 <code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
